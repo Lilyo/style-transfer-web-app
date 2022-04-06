@@ -14,3 +14,4 @@ if method == 'Image':
     image_input(style_model_name)
 else:
     webcam_input(style_model_name)
+
